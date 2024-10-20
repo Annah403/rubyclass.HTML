@@ -1,0 +1,12 @@
+h2{
+    colour : #00e1ff
+}
+th,td{
+  border: 2px solid #009dff;
+    padding: 2px
+
+}
+table{
+    width: 100%;
+    border-collapse:collapse ;
+}
